@@ -12,7 +12,7 @@
 ## About the project
 
 This is an open source project that serves as a free alternative to the Linktree website.
-- [My Linktree](https://links-neli.vercel.app/)
+- [My Linktree](https://neli-links.vercel.app/)
 
 I used the [ScrollReveal](https://scrollrevealjs.org/) for the animations!
 
