@@ -32,7 +32,7 @@ git clone https://github.com/imneli/linktree
 
 ## Youtube Tutorial
 
-### Check the tutorial here -> [Youtube Video]()
+### Check the tutorial here -> [Youtube Video](https://www.youtube.com/watch?v=4hCy7Q-x3WE)
 
 ---
 
